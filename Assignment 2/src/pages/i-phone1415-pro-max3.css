@@ -1,0 +1,15 @@
+.home-5-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 430px;
+  height: 932px;
+  object-fit: cover;
+}
+.iphone-14-15-pro-max-5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 932px;
+  overflow: hidden;
+}
